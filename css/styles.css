@@ -2,3 +2,35 @@ img[src="images/logo.png"] {
     max-width: 50px;
     max-height: 50px;
 }
+h1{
+    font-family: "anton", sans-serif;
+    font-size: 4em;
+}
+h2{
+    font-family: "anton", sans-serif;
+    font-size: 2em;
+}
+#circle1{
+    font-family: "anton", sans-serif;
+    background-color: #e6563b;
+    height: 105px;
+    width: 105px;
+}
+#circle2{
+    font-family: "anton", sans-serif;
+    background-color: #eb9d3a;
+    height: 105px;
+    width: 105px;
+}
+#circle3 {
+    font-family: "anton", sans-serif;
+    background-color: #7cb06c;
+    height: 105px;
+    width: 105px;
+}
+#circle4{
+    font-family: "anton", sans-serif;
+    background-color: #00aba9;
+    height: 105px;
+    width: 105px;
+}
