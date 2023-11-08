@@ -2,35 +2,72 @@ img[src="images/logo.png"] {
     max-width: 50px;
     max-height: 50px;
 }
-h1{
+
+h1 {
     font-family: "anton", sans-serif;
     font-size: 4em;
 }
-h2{
+
+h2 {
     font-family: "anton", sans-serif;
     font-size: 2em;
 }
-#circle1{
+
+h4 {
+    font-size: 1em;
+}
+
+p {
+    font-family: abel, sans-serif;
+}
+
+#circle1 {
     font-family: "anton", sans-serif;
     background-color: #e6563b;
-    height: 105px;
-    width: 105px;
 }
-#circle2{
+
+#circle2 {
     font-family: "anton", sans-serif;
     background-color: #eb9d3a;
-    height: 105px;
-    width: 105px;
 }
+
 #circle3 {
     font-family: "anton", sans-serif;
     background-color: #7cb06c;
-    height: 105px;
-    width: 105px;
 }
-#circle4{
+
+#circle4 {
     font-family: "anton", sans-serif;
     background-color: #00aba9;
-    height: 105px;
-    width: 105px;
+}
+
+#media img {
+    width: 100%;
+    height: 100%;
+}
+
+#circles > * {
+    height: 80px;
+    width: 80px;
+}
+
+.mini-circles {
+    height: 18px;
+    width: 18px;
+}
+
+.mini1 {
+    background-color: #e6563b;
+}
+
+.mini2 {
+    background-color: #eb9d3a;
+}
+
+.mini3 {
+    background-color: #7cb06c;
+}
+
+.mini4 {
+    background-color: #00aba9;
 }
